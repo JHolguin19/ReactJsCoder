@@ -5,7 +5,7 @@ const CartWidget = () =>{
     
 return(
 
-    <button type="button" className="btn btn-primary position-relative">
+    <button type="button" className="btn btn-primary position-relative bg-warning">
         <img src={IconCart} alt="" width={24} /> 
              <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
           99+
