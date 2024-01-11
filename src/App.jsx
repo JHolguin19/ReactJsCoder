@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header/>
-      <ItemListContainer texto={"Propsss!"}/>
+      <ItemListContainer texto={"Mensaje introducido a través de Props!!"}/>
     </>
   )
 }
